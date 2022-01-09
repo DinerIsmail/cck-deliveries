@@ -1,3 +1,5 @@
+DEMO project created as a clone of original repo, only for the purpose of presenting in order to allow other groups to create a similar system.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
